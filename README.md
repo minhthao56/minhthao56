@@ -9,7 +9,7 @@
 ### A little more about me...  
 
 ```javascript
-const thai = {
+const Minh Thao = {
   pronouns: "he",
   code: [Javascript, Typescript, HTML, CSS, SCSS],
   tools: [ReactJS, Redux, NodeJS, NestJs, ExpressJS, React Native],
