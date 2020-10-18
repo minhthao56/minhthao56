@@ -7,7 +7,7 @@
 [![GitHub Minh Thao](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/minhthao56)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### A little more about me...  
 
 ```javascript
 const thai = {
