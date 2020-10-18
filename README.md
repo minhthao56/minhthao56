@@ -1,6 +1,5 @@
 
 <h2> Hi, I'm Minh Thao! </h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Frontend Developer at <a href="https://affoz.com/">Affoz Technology</a>
 </em></p>
 
