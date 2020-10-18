@@ -28,4 +28,4 @@ const thai = {
 
 ---
 
-⭐️ From [@Thaiane](https://github.com/Thaiane)
+⭐️ From [@MinhThao](https://github.com/minhthao56)
