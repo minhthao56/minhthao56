@@ -11,8 +11,8 @@
 ```javascript
 const Minh Thao = {
   pronouns: "he",
-  code: [Javascript, Typescript, HTML, CSS, SCSS],
-  tools: [ReactJS, Redux, NodeJS, NestJs, ExpressJS, React Native],
+  code: [Javascript, Typescript, Java, HTML, CSS, SCSS],
+  tools: [ReactJS, Redux, NodeJS, NestJS, ExpressJS, React Native, Android],
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
 ```
