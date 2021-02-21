@@ -1,6 +1,6 @@
 
 <h2> Hi, I'm Minh Thao! </h2>
-<p><em>Frontend Developer at <a href="https://affoz.com/">Affoz Technology</a>
+<p><em>Frontend Developer at <a href="https://yoot.vn/">YOOT</a>
 </em></p>
 
 [![GitHub Minh Thao](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/minhthao56)
